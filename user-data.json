@@ -1,0 +1,11 @@
+[
+  {
+    "username": "admin",
+    "firstName": "Admin",
+    "lastName": "User",
+    "email": "admin@example.com",
+    "phone": null,
+    "password": "admin123",
+    "authCode": null
+  }
+]

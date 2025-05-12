@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "firstName": "Admin",
+    "lastName": "User",
+    "email": "admin@example.com",
+    "phone": null,
+    "password": "admin_password",
+    "authCode": null
+  },
+  {
+    "username": "user1",
+    "firstName": "Regular",
+    "lastName": "User",
+    "email": "user@example.com",
+    "phone": "+12345678901",
+    "password": "user_password",
+    "authCode": null
+  }
+]
